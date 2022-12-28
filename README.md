@@ -8,7 +8,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1000932415721717853/1047000993910501418/icone-transparente-branco.png?width=676&height=676">
 </div>
 
 ##
