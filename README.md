@@ -16,7 +16,7 @@
 <div> 
   <a href = "mailto:luisfellypealmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/luisfellype/luisfellype/blob/output/github-contribution-grid-snake.svg)
+  <img align="right" height="300" width="100%" src="https://cdn.discordapp.com/attachments/1000932415721717853/1057487445710610533/rodape.png">
  
 </div>
 
