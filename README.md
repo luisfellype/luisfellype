@@ -16,7 +16,7 @@
 <div> 
   <a href = "mailto:luisfellypealmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  <img align="right" src="https://cdn.discordapp.com/attachments/1000932415721717853/1057487445710610533/rodape.png">
+  <img align="right" alt="Luis-rodape" src="https://cdn.discordapp.com/attachments/1000932415721717853/1057487445710610533/rodape.png" right>
  
 </div>
 
