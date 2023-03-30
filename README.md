@@ -1,4 +1,4 @@
-### Oie eu sou o Luís Fellype e atualmente estou estudando BOOTSTRAP.
+### Oie eu sou o Luís Fellype e atualmente estou estudando JavaScript.
 
 <div align="center">
   <a href="https://github.com/luisfellype">
