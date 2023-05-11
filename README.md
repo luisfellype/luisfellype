@@ -1,4 +1,4 @@
-### Oie eu sou o Luís Fellype e atualmente estou estudando JavaScript.
+### Oie eu sou o Luís Fellype e atualmente estou estudando para me tornar um desenvolvedor Full-Stack.
 
 <div align="center">
   <a href="https://github.com/luisfellype">
